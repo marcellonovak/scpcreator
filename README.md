@@ -1,6 +1,6 @@
 # SCP Creator
 A quick program I made to make fake looking SCP documents for fun
-Example output (you add the words inbetween):
+Example output (you add the words inbetween):\
 ██████ ███████ ██ █████ ████████ ████ █████ ████ ██ ███ ███ ██████ ██ ██████████ █████ ███████ ██ 
 ████████ ██ ████ ██████ █████████ ██████ 
 ███ █████ ██████████ ███████████ █████████ ███████████ █████████ ███████████ ███ ███ ████ ██ ███████ ██████████ 
